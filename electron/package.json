@@ -1,0 +1,16 @@
+{
+  "name": "playground-go-electron",
+  "version": "0.0.1",
+  "description": "Playground using Go(lang) with Electron.",
+  "main": "main.js",
+  "repository": "git@github.com:shanna/playground-go-electron.git",
+  "author": "Shane Hanna",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^0.37.5",
+    "ffi": "^2.0.0"
+  }
+}

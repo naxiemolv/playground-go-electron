@@ -1,0 +1,5 @@
+# Go shared library.
+libserver.*
+
+# NPM
+node_modules/

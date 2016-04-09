@@ -1,0 +1,15 @@
+{
+  "name": "playground-go-node",
+  "version": "0.0.1",
+  "description": "Playground using Go(lang) with Node.",
+  "main": "main.js",
+  "repository": "git@github.com:shanna/playground-go-electron.git",
+  "author": "Shane Hanna",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ffi": "^2.0.0"
+  }
+}
